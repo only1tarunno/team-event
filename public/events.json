@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Engagement Parties",
+    "img": "https://i.ibb.co/D4ZY1S0/wedding.jpg",
+    "price": 450,
+    "short_description": "Celebrate your engagement in style with our tailored party planning services.",
+    "description": "Your engagement is a momentous occasion, and we're here to make it unforgettable. Our 'Engagement Parties' service is designed to create a celebration that reflects your love and excitement. Whether it's an intimate gathering or a grand soiree, we'll handle all the details, from venue selection and decor to catering and entertainment. Toast to your future together with an engagement party that sets the stage for your journey into married life."
+  },
+  {
+    "id": 2,
+    "name": "Anniversaries Event Planning",
+    "img": "https://i.ibb.co/RBpqrJg/mr.jpg",
+    "price": 300,
+    "short_description": "Tailored planning and coordination for unforgettable anniversary celebrations.",
+    "description": "Celebrate your love story with our Anniversaries Event Planning service. Whether it's your first or fiftieth anniversary, we'll craft a memorable celebration that honors your journey together. From intimate gatherings to grand parties, we'll plan every detail, ensuring that your anniversary is a day to cherish."
+  },
+  {
+    "id": 3,
+    "name": "Birthday Party Planning",
+    "img": "https://i.ibb.co/tPFPDv9/bd.jpg",
+    "price": 350,
+    "short_description": "Create unforgettable birthday celebrations with our expert planning and coordination.",
+    "description": "Make your birthday party an unforgettable event with our expert planning and coordination service. Whether it's a milestone celebration or an intimate gathering, we'll take care of every detail, from selecting the perfect venue to arranging entertainment and creating a delightful menu. Let us bring your birthday vision to life and ensure that your special day is filled with joy, laughter, and cherished memories."
+  },
+  {
+    "id": 4,
+    "name": "Floral and Decor Design Services",
+    "img": " https://i.ibb.co/nzt8DHJ/s5.jpg",
+    "price": 500,
+    "short_description": "Exquisite floral and decor design services to transform your venue into a work of art.",
+    "description": "Elevate your wedding ambiance with our floral and decor design services. Our talented team of designers will collaborate with you to create a unique and awe-inspiring atmosphere. From breathtaking floral centerpieces to elegant table settings and creative backdrops, we'll infuse your wedding with beauty and style. Let us transform your venue into a canvas of enchantment that reflects your love story and captivates your guests."
+  },
+  {
+    "id": 5,
+    "name": "Venue Selection and Decoration",
+    "img": "https://i.ibb.co/sgFtwPK/s1.jpg",
+    "price": 250,
+    "short_description": "Beautiful venue selection and expert decoration services for an enchanting ambiance.",
+    "description": "Finding the perfect venue and creating a magical atmosphere is our specialty. We'll help you choose a venue that suits your style and budget, and then transform it into a breathtaking space with exquisite decor and lighting. From elegant drapery to stunning floral arrangements, we'll ensure your venue is a reflection of your love story, setting the stage for an unforgettable celebration."
+  },
+
+  {
+    "id": 6,
+    "name": "Wedding Planning and Coordination",
+    "img": " https://i.ibb.co/0fxScwf/s4.jpg",
+    "price": 200,
+    "short_description": "Comprehensive wedding planning and coordination to ensure your special day runs smoothly.",
+    "description": "Our wedding planning and coordination service is your key to a stress-free wedding journey. Our expert planners will work closely with you to bring your dream wedding to life. From creating a detailed timeline to coordinating with vendors and overseeing every aspect of the big day, we're here to make sure everything goes off without a hitch. Relax and enjoy the celebration while we handle all the logistics."
+  }
+]
